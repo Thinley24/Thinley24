@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/Thinley24/Thinley24/blob/main/hacker.gif" alt="logo" width="750" height="300">
+</p>
+
 <h1 align="center">Hi 👋, I'm Thinley Jigme</h1>
 <h3 align="center">A passionate Backend Developer from Bhutan</h3>
 
