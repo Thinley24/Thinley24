@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thinley24&label=Profile%20views&color=0e75b6&style=flat" alt="thinley24" /> </p>
 
-- 🌱 I’m currently learning **Ruby on Rails, Hack the Box**
+- 🌱 I’m currently learning **Ruby on Rails, Hack the Box, Hotwire**
 
 - 👨‍💻 All of my projects are available at [Thinley24](Thinley24)
 
