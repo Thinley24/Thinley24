@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Thinley Jigme</h1>
-<h3 align="center">A Cyber Security enthusiast and a former software engineer from Bhutan.</h3>
+<h3 align="center">Cybersecurity enthusiast and former software engineer from Bhutan.</h3>
 
 <img align="right" alt="coding" width="400" src="https://tusharkasaudhan.live/assets/images/happy-hacker.gif">
 
